@@ -1,1 +1,2 @@
 this is a.txt file
+some more info added also to this file
